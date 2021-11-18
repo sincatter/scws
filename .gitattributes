@@ -1,0 +1,2 @@
+dicts/scws-dict-chs-gbk.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+dicts/scws-dict-chs-utf8.tar.bz2 filter=lfs diff=lfs merge=lfs -text
